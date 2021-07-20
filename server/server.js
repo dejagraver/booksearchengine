@@ -15,7 +15,9 @@ const server = new ApolloServer({
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+server.start().then( () => {
 server.applyMiddleware({ app });
+});
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
