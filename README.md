@@ -53,6 +53,8 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
     <br />
+    
+    Will return later to work on developing and refining the USAGE features of this web application. Stay tuned for further develeopment and functionality. 
 
 
  <a name="Links">#Links</a>
