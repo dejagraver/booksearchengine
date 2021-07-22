@@ -15,10 +15,30 @@ AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
+<br /> 
+
+Used GraphQL API build with Apollo server. Built theought the use of MongoDB, using MERN stack, with front end React, Book search engine API and Node.js/Express.js server.
+
+Built using
+*Express.js
+*MongoDB
+*Apollo Server
+*CSS
+*React.js
+*Node.js
+*JavaScript
+
+
+
  <br />
 
 <a name="Installation">#Installation</a>
 No installation required. Grab link from usage section.
+Optional: 
+1. Clone code from repository 
+2. run npm install from root directory 
+3. Start both the front end and back end, "npm run develop"
+4. http://localhost:3000 to view web application
 
     <br />
 
@@ -54,7 +74,8 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
     <br />
     
-    Will return later to work on developing and refining the USAGE features of this web application. Stay tuned for further develeopment and functionality. 
+![image](https://user-images.githubusercontent.com/78667882/126581403-103919e2-9ac2-4f01-bde2-f0547ab5df8c.png)
+
 
 
  <a name="Links">#Links</a>
